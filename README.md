@@ -14,8 +14,8 @@ I am a dedicated informatics student focused on mastering software architecture 
 
 ### 📊 GitHub Ecosystem Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuigiStricagnolo_ID&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiStricagnolo_ID&layout=compact&theme=tokyonight&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuigiStricagnolo&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiStricagnolo&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
